@@ -13,6 +13,6 @@
         <email>mespeche@openstudio.fr</email>
     </author>
     <type>classic</type>
-    <thelia>2.0.0</thelia>
+    <thelia>2.0.4</thelia>
     <stability>prod</stability>
 </module>
